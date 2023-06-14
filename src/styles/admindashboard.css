@@ -1,0 +1,18 @@
+.dashboard_contanier {
+    margin: 3rem auto;
+    max-height: 600px;
+    max-width: 1000px;
+    padding: 20px;
+    text-align: justify;
+}
+
+.dashboard_contanier h1 {
+    text-decoration: underline;
+    text-decoration-color: #fcbe3f;
+    color: #088a6b;
+}
+
+.dashboard_contanier p {
+    font-size: 1.2rem;
+    color: #22418b;
+}

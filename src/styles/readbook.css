@@ -1,0 +1,11 @@
+.read_contanier {
+    text-align: justify;
+    padding: 5px 10px;
+    margin: auto;
+    max-height: 100%;
+    max-width: 1200px;
+}
+
+.read_contanier p {
+    font-size: 17px;
+}

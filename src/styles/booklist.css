@@ -1,0 +1,41 @@
+.booklist {
+    color: #252525;
+}
+
+.book_contanier {
+    display: flex;
+    justify-content: left;
+    margin: 30px auto;
+    border-radius: 8px;
+    border: 1px solid #252525;
+    width: 1300px;
+    backdrop-filter: blur(3px);
+    box-shadow: #252525 1px 1px 10px;
+}
+
+.book_contanier img {
+    width: 200px;
+    padding: 10px;
+}
+
+#readbtn {
+    color: #ef2346;
+    border: 1px solid #ef2346;
+    background-color: transparent;
+}
+
+#readbtn:hover {
+    text-shadow: 1px 1px 20px 70px #252525;
+    background-color: #ef2346;
+    color: aliceblue;
+}
+
+.bookcard {
+    color: #252525;
+    text-align: left;
+    padding: 0px 15px;
+    border-radius: 9px;
+    margin: 5px 5px;
+    width: 450px;
+    height: 300px;
+}
